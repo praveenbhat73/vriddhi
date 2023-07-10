@@ -14,3 +14,4 @@ const firebaseConfig = {
 };
 
 export const Firebase = firebase.initializeApp(firebaseConfig)//named export
+//! remove firebase config and do the task of frontend and backend as django 
